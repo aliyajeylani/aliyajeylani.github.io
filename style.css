@@ -1,0 +1,106 @@
+body {
+  background-color: powderblue;
+}
+
+img {
+  width: 300px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+h1 {
+  color: Black;
+  font-size: 60px;
+  font-family: Rockwell;
+  font-weight: bold;
+  text-align: center;
+}
+
+.info  {
+   font-size: 18px;
+   padding-left: 10px;
+   font-family: calibri;
+   text-align: center;
+}
+ 
+h2 {
+  font-size: 30px;
+  padding-left: 10px;
+  font-family: Rockwell;
+  text-align: left;
+}
+
+.summary {
+  text-align: left;
+  font-family: calibri;
+  padding-left: 10px;
+}
+
+.date {
+  
+  font-family: calibri;
+  text-align: left;
+  padding-left: 10px;
+  font-size: 22px;
+  font-style: italic;
+}
+
+
+.title {
+  padding-left: 10px;
+  font-family: calibri;
+  text-align: left;
+  font-weight: bold;
+  font-size: 25px;
+  color: mediumslateblue;
+ 
+}
+
+.description {
+  text-align: left;
+  font-family: calibri;
+  font-size: 18px;
+ 
+}
+
+.year {
+  text-align: left;
+  font-family: calibri;
+  font-size: 22px;
+  padding-left: 10px;
+  font-style: italic;
+}
+
+.degree {
+  text-align: left;
+  font-family: calibri;
+  font-size: 22px;
+  padding-left: 10px;
+  color: mediumslateblue;
+  font-weight: bold;
+}
+
+.school {
+  text-align: left;
+  font-family: calibri;
+  font-size: 22px;
+  padding-left: 10px;
+  
+}
+
+.skill {
+  text-align: left;
+  font-family: calibri;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+
+
+
+
+
+
